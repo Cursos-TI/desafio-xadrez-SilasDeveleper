@@ -12,7 +12,7 @@ int main() {
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
     int bispo = 5, torre = 5, rainha = 8;
     int i, j;
-    /*
+    
     // Implementação de Movimentação do Bispo
     // Sugestão: Utilize uma estrutura de repetição para simular a movimentação do Bispo em diagonal.
     printf("Movimento do Bispo:\n");
@@ -46,7 +46,7 @@ int main() {
     {
       printf("esquerda\n");
     }
-    */
+    
 
     // Nível Aventureiro - Movimentação do Cavalo
     // Sugestão: Utilize loops aninhados para simular a movimentação do Cavalo em L.
